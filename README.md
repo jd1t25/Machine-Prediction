@@ -50,7 +50,7 @@ To start the Flask APP locally, simply run:
 python app.py
 ```
     
-The APP will be available at `http://localhost:5000`
+The APP will be available at `http://localhost:8000`
 
 ## API Endpoints
 
@@ -189,7 +189,7 @@ To start the Flask APP locally, simply run:
     ```bash
     python app.py
     ```
-The APP will be available at `http://localhost:5000`
+The APP will be available at `http://localhost:8000`
 
 ## API Endpoints
 
@@ -292,11 +292,11 @@ This endpoint predicts whether there will be downtime based on the input feature
 
 ### Outputs
 
-- Upload
-[/upload](assets/pic1.png)
+#### Upload
+<img src="./assets/pic1.png" alt="drawing" width="800"/>
 
-- Train
-[/train](assets/pic2.png)
+#### Train
+<img src="./assets/pic2.png" alt="drawing" width="800"/>
 
-- Predict
-[/predict](assets/pic3.png)
+#### Predict
+<img src="./assets/pic3.png" alt="drawing" width="800"/>
